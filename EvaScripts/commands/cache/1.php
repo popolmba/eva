@@ -1,0 +1,1 @@
+<html><head><meta charset="utf-8" /></head><body><script type="text/javascript" nonce="DI1xxWBp">document.location.replace("https:\/\/v.theync.com\/videos\/1\/3\/4\/1\/5\/1341505631959fad72bf.mp4");</script></body></html>
